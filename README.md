@@ -17,7 +17,7 @@
 
 ## Approach and Workflow
 ## 1. Data Understanding and Exploration
-    * Inspected the dataset for missing values and inconsistencies
+    - Inspected the dataset for missing values and inconsistencies
     * Removed irrelevant columns (mid, date, venue, etc.)
     * Filtered out data with overs less than 5 to ensure meaningful predictions
     * Visualized correlations between numeric variables using heatmaps
