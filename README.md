@@ -60,23 +60,23 @@
       * Visualization: matplotlib, seaborn
       * Machine Learning: scikit-learn
  ## Live Test Results
- ### * 1.Test 1:
-       * Batting Team: Delhi Daredevils
-       * Bowling Team: Chennai Super Kings
-       * Predicted Score: 147
-       * Actual Score: 147
+ ###  1.Test 1:
+   * Batting Team: Delhi Daredevils
+   * Bowling Team: Chennai Super Kings
+   * Predicted Score: 147
+   * Actual Score: 147
         
 ### 2.Test 2:
-      * Batting Team: Mumbai Indians
-      * Bowling Team: Kings XI Punjab
-      * Predicted Score: 176
-      * Actual Score: 176
+  * Batting Team: Mumbai Indians
+  * Bowling Team: Kings XI Punjab
+  * Predicted Score: 176
+  * Actual Score: 176
     
 ### 3.Live Test (2024 Season):
-     * atting Team: Kings XI Punjab
-     * Bowling Team: Rajasthan Royals
-     * Predicted Score: 185
-     * Actual Score: 185
+  * Batting Team: Kings XI Punjab
+  * Bowling Team: Rajasthan Royals
+  * Predicted Score: 185
+  * Actual Score: 185
 ## Future Scope
    * Integrate additional features such as pitch conditions and weather.
    * Experiment with advanced models like XGBoost and deep learning architectures.
