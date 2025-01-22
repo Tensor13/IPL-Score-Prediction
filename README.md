@@ -60,11 +60,11 @@
       * Visualization: matplotlib, seaborn
       * Machine Learning: scikit-learn
  ## Live Test Results
-### 1.Test 1:
-      * Batting Team: Delhi Daredevils
-      * Bowling Team: Chennai Super Kings
-      * Predicted Score: 147
-      * Actual Score: 147
+### * 1.Test 1:
+   * Batting Team: Delhi Daredevils
+   * Bowling Team: Chennai Super Kings
+   * Predicted Score: 147
+   * Actual Score: 147
         
 ### 2.Test 2:
       * Batting Team: Mumbai Indians
