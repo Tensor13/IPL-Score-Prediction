@@ -19,22 +19,21 @@
 ## Approach and Workflow
 ## 1. Data Understanding and Exploration
  * Inspected the dataset for missing values and inconsistencies
-    
-    * Removed irrelevant columns (mid, date, venue, etc.)
-    * Filtered out data with overs less than 5 to ensure meaningful predictions
-    * Visualized correlations between numeric variables using heatmaps
+ * Removed irrelevant columns (mid, date, venue, etc.)
+ * Filtered out data with overs less than 5 to ensure meaningful predictions
+ * Visualized correlations between numeric variables using heatmaps
 ## 2. Data Preprocessing
-   .* Encoded categorical variables (teams) using label encoding and one-hot encoding
-    * Standardized numerical features for consistent input to machine learning models.
-    * Split the dataset into training and testing sets (80%-20%).
+ * Encoded categorical variables (teams) using label encoding and one-hot encoding
+ * Standardized numerical features for consistent input to machine learning models.
+ * Split the dataset into training and testing sets (80%-20%).
 ## 3. Machine Learning Modeling
-    Implemented multiple regression models:
-      * Linear Regression
-      * Decision Tree Regressor
-      * Random Forest Regressor
-      * Lasso Regression
-      * Support Vector Regressor (SVR)
-      * Neural Network (MLP Regressor)
+ * Implemented multiple regression models:
+   * Linear Regression
+   * Decision Tree Regressor
+   * Random Forest Regressor
+   * Lasso Regression
+   * Support Vector Regressor (SVR)
+   * Neural Network (MLP Regressor)
  Optimized models using hyperparameter tuning where applicable.
 
  ## 4. Evaluation
