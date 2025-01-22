@@ -17,7 +17,7 @@
 
 ## Approach and Workflow
 ## 1. Data Understanding and Exploration
-    *Inspected the dataset for missing values and inconsistencies.
+    * Inspected the dataset for missing values and inconsistencies.
     * Removed irrelevant columns (mid, date, venue, etc.).
     * Filtered out data with overs less than 5 to ensure meaningful predictions.
     * Visualized correlations between numeric variables using heatmaps
@@ -59,19 +59,19 @@
       * Visualization: matplotlib, seaborn
       * Machine Learning: scikit-learn
  ## Live Test Results
-   * 1.Test 1:
+### * 1.Test 1:
       * Batting Team: Delhi Daredevils
       * Bowling Team: Chennai Super Kings
       * Predicted Score: 147
       * Actual Score: 147
         
-    *  2.Test 2:
+### * 2.Test 2:
       * Batting Team: Mumbai Indians
       * Bowling Team: Kings XI Punjab
       * Predicted Score: 176
       * Actual Score: 176
     
-    * 3.Live Test (2024 Season):
+### * 3.Live Test (2024 Season):
      * atting Team: Kings XI Punjab
      * Bowling Team: Rajasthan Royals
      * Predicted Score: 185
