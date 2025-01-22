@@ -47,9 +47,9 @@
         * Teams, overs, current runs, wickets, and last-5 overs performance.
      * Tested predictions on historical and live IPL match scenarios.
  ## 6. Results
-      * Best Performing Models: Random Forest Regressor and Neural Network.
-      * Key Features Influencing Prediction:
-         * Batting and bowling teams.
+      *  Best Performing Models: Random Forest Regressor and Neural Network.
+      *  Key Features Influencing Prediction:
+         *  Batting and bowling teams.
          * Runs and wickets in the last 5 overs.
          * Overs completed.
  ## Technologies Used
