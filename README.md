@@ -37,24 +37,24 @@
  Optimized models using hyperparameter tuning where applicable.
 
  ## 4. Evaluation
-    * Evaluated models using:
-       * Mean Absolute Error (MAE)
-       * Mean Squared Error (MSE)
-       * Root Mean Squared Error (RMSE)
-       * R² scores for training and testing sets.
-       * Random Forest and Neural Networks were among the top-performing models with high accuracy and low errors.
+  * Evaluated models using:
+    * Mean Absolute Error (MAE)
+    * Mean Squared Error (MSE)
+    * Root Mean Squared Error (RMSE)
+    * R² scores for training and testing sets.
+    * Random Forest and Neural Networks were among the top-performing models with high accuracy and low errors.
  ## 5. Predictions
-     * Developed a prediction function to forecast scores based on:
-        * Teams, overs, current runs, wickets, and last-5 overs performance.
-     * Tested predictions on historical and live IPL match scenarios.
+  * Developed a prediction function to forecast scores based on:
+    * Teams, overs, current runs, wickets, and last-5 overs performance.
+    * Tested predictions on historical and live IPL match scenarios.
  ## 6. Results
-      *  Best Performing Models: Random Forest Regressor and Neural Network.
-      *  Key Features Influencing Prediction:
-         *  Batting and bowling teams.
-         * Runs and wickets in the last 5 overs.
-         * Overs completed.
+  *  Best Performing Models: Random Forest Regressor and Neural Network.
+  *  Key Features Influencing Prediction:
+    * Batting and bowling teams.
+    * Runs and wickets in the last 5 overs.
+    * Overs completed.
  ## Technologies Used
-    * Programming Language: Python
+   * Programming Language: Python
     * Libraries:
       * Data Manipulation: pandas, numpy
       * Visualization: matplotlib, seaborn
