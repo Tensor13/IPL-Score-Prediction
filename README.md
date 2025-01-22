@@ -66,10 +66,10 @@
       * Actual Score: 147
         
     * 2.Test 2:
-     * Batting Team: Mumbai Indians
-     * Bowling Team: Kings XI Punjab
-     * Predicted Score: 176
-     * Actual Score: 176
+      * Batting Team: Mumbai Indians
+      * Bowling Team: Kings XI Punjab
+      * Predicted Score: 176
+      * Actual Score: 176
     
     * 3.Live Test (2024 Season):
      * atting Team: Kings XI Punjab
