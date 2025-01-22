@@ -8,21 +8,21 @@
 
  ## Dataset 
  * ### Team Details:
-    * Batting team, bowling team.
+    * Batting team, bowling team
  * ### Match Metrics:
-    * Overs, runs scored, wickets lost.
+    * Overs, runs scored, wickets lost
  * ### Recent Performance:
-    * Runs and wickets in the last 5 overs.
- The dataset can be sourced from Kaggle. 
+    * Runs and wickets in the last 5 overs
+ The dataset can be sourced from Kaggle 
 
 ## Approach and Workflow
 ## 1. Data Understanding and Exploration
-    * Inspected the dataset for missing values and inconsistencies.
-    * Removed irrelevant columns (mid, date, venue, etc.).
-    * Filtered out data with overs less than 5 to ensure meaningful predictions.
+    * Inspected the dataset for missing values and inconsistencies
+    * Removed irrelevant columns (mid, date, venue, etc.)
+    * Filtered out data with overs less than 5 to ensure meaningful predictions
     * Visualized correlations between numeric variables using heatmaps
 ## 2. Data Preprocessing
-   .* Encoded categorical variables (teams) using label encoding and one-hot encoding.
+   .* Encoded categorical variables (teams) using label encoding and one-hot encoding
     * Standardized numerical features for consistent input to machine learning models.
     * Split the dataset into training and testing sets (80%-20%).
 ## 3. Machine Learning Modeling
