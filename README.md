@@ -65,7 +65,7 @@
       * Predicted Score: 147
       * Actual Score: 147
         
-    * 2.Test 2:
+    *  2.Test 2:
       * Batting Team: Mumbai Indians
       * Bowling Team: Kings XI Punjab
       * Predicted Score: 176
